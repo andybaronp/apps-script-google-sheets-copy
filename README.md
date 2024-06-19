@@ -1,6 +1,6 @@
-Este script copia el valor de una columna (origen) y lo pega en otra pestaña (destino.
+Este script copia el valor de una columna (origen) y lo pega en otra pestaña destino.
 -------------------------------------------------------
--------------------------------------------------------
+
 
 Principalmente, se creó para asociar códigos a nombre en un Base de Datos. (Ver imagen).
 
